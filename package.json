@@ -1,0 +1,13 @@
+{
+  "name": "justcarver.com",
+  "version": "2.0.0",
+  "description": "My personal website, this time build using Gulp and Jekyll",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Justin Carver",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
