@@ -7,7 +7,12 @@
   },
   "author": "Justin Carver",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perfectloser/personalsitev2.git"
+  },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.0"
   }
 }
