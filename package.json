@@ -12,6 +12,7 @@
     "url": "https://github.com/perfectloser/personalsitev2.git"
   },
   "devDependencies": {
+    "browser-sync": "^2.12.10",
     "gulp": "^3.9.1",
     "require-dir": "^0.3.0"
   }
